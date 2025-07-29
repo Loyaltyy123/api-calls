@@ -11,6 +11,14 @@
   },
   "dependencies": {
     "axios": "^1.11.0",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    "install": "^0.13.0",
+    "npm": "^11.5.1",
+>>>>>>> 6ec695825fe957a058b9a077f43a1405cacb12c9
+>>>>>>> 6ec237759fe224d369a8c9d72163ded22a0c984b
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^6.30.1"
